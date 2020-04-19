@@ -2,4 +2,4 @@
 
 ## Collections
 
-* [Clamp](../blob/master/clamp/files/clamp.stl)
+* [Clamp](../master/clamp/files/clamp.stl)
