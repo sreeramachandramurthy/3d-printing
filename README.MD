@@ -2,4 +2,4 @@
 
 ## Collections
 
-* [Clamp](../master/clamp/files/clamp.stl)
+* [Clamp Pipe](clamp-pipe/files/clamp-pipe.stl)
